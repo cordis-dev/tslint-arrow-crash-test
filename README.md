@@ -1,0 +1,1 @@
+# tslint-arrow-crash-test
